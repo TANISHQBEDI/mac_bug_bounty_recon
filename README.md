@@ -29,8 +29,8 @@ Before running the script, ensure the following tools are installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
-   cd yourrepo
+   git clone https://github.com/TANISHQBEDI/mac_bug_bounty_recon.git
+   cd mac_bug_bounty_recon
    ```
 2. Ensure that Homebrew is installed:
    ```bash
